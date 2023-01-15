@@ -8,21 +8,32 @@ os.system('color')
 os.system('cls')
 
 print('''
-    ssssssssss     aaaaaaaaaaaaa  nnnn  nnnnnnnn        eeeeeeeeeeee    rrrrr   rrrrrrrrr   
-  ss::::::::::s    a::::::::::::a n:::nn::::::::nn    ee::::::::::::ee  r::::rrr:::::::::r  
-ss:::::::::::::s   aaaaaaaaa:::::an::::::::::::::nn  e::::::eeeee:::::eer:::::::::::::::::r 
-s::::::ssss:::::s           a::::ann:::::::::::::::ne::::::e     e:::::err::::::rrrrr::::::r
- s:::::s  ssssss     aaaaaaa:::::a  n:::::nnnn:::::ne:::::::eeeee::::::e r:::::r     r:::::r
-   s::::::s        aa::::::::::::a  n::::n    n::::ne:::::::::::::::::e  r:::::r     rrrrrrr
-      s::::::s    a::::aaaa::::::a  n::::n    n::::ne::::::eeeeeeeeeee   r:::::r            
-ssssss   s:::::s a::::a    a:::::a  n::::n    n::::ne:::::::e            r:::::r            
-s:::::ssss::::::sa::::a    a:::::a  n::::n    n::::ne::::::::e           r:::::r            
-s::::::::::::::s a:::::aaaa::::::a  n::::n    n::::n e::::::::eeeeeeee   r:::::r            
- s:::::::::::ss   a::::::::::aa:::a n::::n    n::::n  ee:::::::::::::e   r:::::r            
-  sssssssssss      aaaaaaaaaa  aaaa nnnnnn    nnnnnn    eeeeeeeeeeeeee   rrrrrrr           
 
-  
-   
+                                                                                                                                               
+                                                                                                                                               
+PPPPPPPPPPPPPPPPP        000000000     WWWWWWWW                           WWWWWWWWEEEEEEEEEEEEEEEEEEEEEERRRRRRRRRRRRRRRRR   ZZZZZZZZZZZZZZZZZZZ
+P::::::::::::::::P     00:::::::::00   W::::::W                           W::::::WE::::::::::::::::::::ER::::::::::::::::R  Z:::::::::::::::::Z
+P::::::PPPPPP:::::P  00:::::::::::::00 W::::::W                           W::::::WE::::::::::::::::::::ER::::::RRRRRR:::::R Z:::::::::::::::::Z
+PP:::::P     P:::::P0:::::::000:::::::0W::::::W                           W::::::WEE::::::EEEEEEEEE::::ERR:::::R     R:::::RZ:::ZZZZZZZZ:::::Z 
+  P::::P     P:::::P0::::::0   0::::::0 W:::::W           WWWWW           W:::::W   E:::::E       EEEEEE  R::::R     R:::::RZZZZZ     Z:::::Z  
+  P::::P     P:::::P0:::::0     0:::::0  W:::::W         W:::::W         W:::::W    E:::::E               R::::R     R:::::R        Z:::::Z    
+  P::::PPPPPP:::::P 0:::::0     0:::::0   W:::::W       W:::::::W       W:::::W     E::::::EEEEEEEEEE     R::::RRRRRR:::::R        Z:::::Z     
+  P:::::::::::::PP  0:::::0 000 0:::::0    W:::::W     W:::::::::W     W:::::W      E:::::::::::::::E     R:::::::::::::RR        Z:::::Z      
+  P::::PPPPPPPPP    0:::::0 000 0:::::0     W:::::W   W:::::W:::::W   W:::::W       E:::::::::::::::E     R::::RRRRRR:::::R      Z:::::Z       
+  P::::P            0:::::0     0:::::0      W:::::W W:::::W W:::::W W:::::W        E::::::EEEEEEEEEE     R::::R     R:::::R    Z:::::Z        
+  P::::P            0:::::0     0:::::0       W:::::W:::::W   W:::::W:::::W         E:::::E               R::::R     R:::::R   Z:::::Z         
+  P::::P            0::::::0   0::::::0        W:::::::::W     W:::::::::W          E:::::E       EEEEEE  R::::R     R:::::RZZZ:::::Z     ZZZZZ
+PP::::::PP          0:::::::000:::::::0         W:::::::W       W:::::::W         EE::::::EEEEEEEE:::::ERR:::::R     R:::::RZ::::::ZZZZZZZZ:::Z
+P::::::::P           00:::::::::::::00           W:::::W         W:::::W          E::::::::::::::::::::ER::::::R     R:::::RZ:::::::::::::::::Z
+P::::::::P             00:::::::::00              W:::W           W:::W           E::::::::::::::::::::ER::::::R     R:::::RZ:::::::::::::::::Z
+PPPPPPPPPP               000000000                 WWW             WWW            EEEEEEEEEEEEEEEEEEEEEERRRRRRRR     RRRRRRRZZZZZZZZZZZZZZZZZZZ
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+developed by saner
+
 ''')
 
 numara = int(input("Numarayı giriniz (+90) olmadan: "))
